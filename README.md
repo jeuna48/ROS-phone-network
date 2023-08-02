@@ -12,7 +12,7 @@ Publish하는 코드, 여기에서는 ROS Mobile이 Publisher가 되므로 굳�
 #### subscriber.py
 Subscribe하는 코드, 버튼의 상태에 따라 토픽의 내용을 모두 기록하거나 중지함
   
-## 실행방법
+## 실행 방법
 1. Terminal 1에서 ROS의 Master를 구동해준다.
 ```
 $ roscore
